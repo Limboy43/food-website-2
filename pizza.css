@@ -106,17 +106,17 @@ a[href="index.html"]:hover {
   padding: 10px 0;
   border-bottom: 2px solid #ff6600;
 
-  .nav {
-  margin-top: 10px;
+  .nav a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
 }
 
-.nav a {
-  margin-right: 15px;
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
 .nav a:hover {
-  color: #ff6600;
+  color: #cc5200;
 }
+
 
 
