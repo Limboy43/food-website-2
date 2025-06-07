@@ -105,4 +105,15 @@ a[href="index.html"]:hover {
   background-color: #ffa94d; 
   padding: 10px 0;
   border-bottom: 2px solid #ff6600;
+
+  .nav {
+  margin-top: 10px;
+}
+
+.nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
 }
