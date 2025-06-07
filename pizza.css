@@ -115,5 +115,8 @@ a[href="index.html"]:hover {
   text-decoration: none;
   color: #333;
   font-weight: bold;
+.nav a:hover {
+  color: #ff6600;
 }
-}
+
+
